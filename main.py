@@ -205,8 +205,6 @@ def mode_8():
 def mode_9():
     print(string_Hex[::-1])
 
-# 예외처리 함수 및 코드 정리 필요. - 숫자, 알파벳 소문자, 대문자 치환 (Github 게시 전 수정)
-
 if __name__ == "__main__":
     while(True):
         mode_print()
